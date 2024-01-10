@@ -1,0 +1,2 @@
+- Delivery of computing services over the internet is known as cloud computing.
+- Computing services such as **virtual machines**, **storage**, **databases**, **networking** etc.
