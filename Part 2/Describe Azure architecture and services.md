@@ -1,0 +1,4 @@
+- [[Describe the core architectural components of Azure]]
+- Describe Azure compute and networking services
+- Describe Azure storage services
+- Describe Azure identity, access, and security
