@@ -35,11 +35,11 @@ Expected Date (Complete) - 11/09/2024
 - Describe Azure storage services
 - Describe Azure identity, access, and security
 
-| Date                                                 | Module                                                                                                                                                                                                | Cooking                              | Revision | Remark |
-| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | -------- | ------ |
-| 30/08/2024<br>31/08/2024<br>1/09/2024                | Describe Cloud Concepts<br><br>Describe the benefits of using cloud services<br><br>Describe cloud service type                                                                                       | ✅<br><br>✅<br><br><br>✅              |          |        |
-| 02/09/2024<br>03/09/2024<br>04/09/2024<br>05/09/2024 | Describe the core architectural components of Azure<br><br>Describe Azure compute and networking services<br><br>Describe Azure storage services<br><br>Describe Azure identity, access, and security | 🚫<br><br><br>🚫<br><br>🚫<br><br>🚫 |          |        |
-|                                                      |                                                                                                                                                                                                       |                                      |          |        |
+| Date                                                 | Module                                                                                                                                                                                                | Cooking                             | Revision | Remark |
+| ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- | -------- | ------ |
+| 30/08/2024<br>31/08/2024<br>1/09/2024                | Describe Cloud Concepts<br><br>Describe the benefits of using cloud services<br><br>Describe cloud service type                                                                                       | ✅<br><br>✅<br><br><br>✅             |          |        |
+| 02/09/2024<br>03/09/2024<br>04/09/2024<br>05/09/2024 | Describe the core architectural components of Azure<br><br>Describe Azure compute and networking services<br><br>Describe Azure storage services<br><br>Describe Azure identity, access, and security | ✅<br><br><br>🚫<br><br>🚫<br><br>🚫 |          |        |
+|                                                      |                                                                                                                                                                                                       |                                     |          |        |
 
 | Day        |     |
 | ---------- | --- |
